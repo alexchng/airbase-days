@@ -17,10 +17,4 @@ For Mac/Linux, start the server by running
 ./run.sh
 ```
 
-For Windows, start the server by running
-
-```bash
-run.bat
-```
-
 The app should be accessible on http://localhost:8000
